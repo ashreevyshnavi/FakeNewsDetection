@@ -24,6 +24,7 @@ Three machine learning models are trained and evaluated for fake news detection:
 1. Logistic Regression
 2. Decision Tree Classifier
 3. Random Forest Classifier
+4. Support Vector Machine
 
 Each model is trained using a pipeline consisting of text vectorization (CountVectorizer) and TF-IDF transformation (TfidfTransformer).
 
